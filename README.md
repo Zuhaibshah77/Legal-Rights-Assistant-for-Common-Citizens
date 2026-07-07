@@ -152,7 +152,7 @@ This application provides general legal information based on publicly available 
 
 ## 👨‍💻 Developer
 
-Zarik Rasool
+Zuhaib Shah
 B.Tech AI/ML — Semester IV
 Model Institute of Engineering and Technology (MIET), Jammu
 
